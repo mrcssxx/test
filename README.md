@@ -1,3 +1,3 @@
 # My first project
 
-[Link] (https://mrcssxx.github.io/test/)
+[Link](https://mrcssxx.github.io/test/)
