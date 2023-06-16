@@ -184,16 +184,16 @@ a:visited {
     opacity: 0.9;
 }
 
-/*Postion*/
+/*Position*/
 
 .position {
-
-}
-
-.box {
-    height: 50px;
-    width: 50px;
+    height: 100px;
+    width: 100px;
     background: lightcoral;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 100px;
+    right: 50px;
 }
 
 @media (max-width: 500px) {
